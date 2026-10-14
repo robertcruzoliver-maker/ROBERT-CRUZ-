@@ -49,9 +49,15 @@ El modelo es `claude-haiku-5-5` (el más económico). Está fijado en `.claude/s
 
 ## Mi proyecto (cada alumno completa esto)
 
-- **Qué problema resuelve:** 
-- **Quién lo usa:** 
-- **Entrada y salida:** 
-- **Documentos o datos que necesita:** 
-- **Herramientas que usaría un agente:** 
+- **Qué problema resuelve:**  Explica la arquitectura de redes móviles 2G, 3G, 4G LTE, VoLTE y 5G, así como la función de cada elemento de red y su interconexión.
+- **Quién lo usa:** Ingenieros de telecomunicaciones, analistas NOC, personal de operaciones y estudiantes de redes móviles.
+- **Entrada y salida:** Entrada: preguntas sobre arquitectura, Core, IMS, EPC, LTE, 5G, roaming y señalización. Salida: explicaciones técnicas basadas en la documentación disponible.
+- **Documentos o datos que necesita:** Diagramas de red, procedimientos, manuales técnicos, arquitectura LTE, EPC, IMS
+- **Herramientas que usaría un agente:** Búsqueda de información en documentos técnicos y procedimientos de red.
 - **Qué NUNCA debe hacer o decir:** 
+Inventar información.
+Dar respuestas sin respaldo documental.
+Mostrar información confidencial.
+Modificar configuraciones de red.
+Ejecutar acciones sobre equipos.
+Si no encuentra información debe responder: "No tengo esa información".
